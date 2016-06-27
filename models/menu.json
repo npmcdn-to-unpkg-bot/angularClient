@@ -1,0 +1,51 @@
+{
+    "menu": {
+        "opciones": [
+            {
+                "id": "1",
+                "text": "Principal",
+                "url": "#",
+                "subopciones": [
+                  {
+                    "text": "Acerca de",
+                    "url": "#/about"
+                  },
+                  {
+                    "text": "Contacto",
+                    "url": "#/main"
+                  }
+                ]
+            },
+            {
+              "id": "2",
+              "text": "Usuarios",
+                "url": "#",
+                "subopciones": [
+                  {
+                    "text": "Listar",
+                    "url": "#/users"
+                  },
+                  {
+                    "text": "Agregar",
+                    "url": "#"
+                  }
+                ]
+            },
+            {
+              "id": "3",
+              "text": "opcion 3",
+                "url": "#",
+                "subopciones": [
+                  {
+                    "text": "opcion 3.1",
+                    "url": "#"
+                  },
+                  {
+                    "text": "opcion 3.2",
+                    "url": "#"
+                  }
+                ]
+            }
+        ]
+    }
+}
